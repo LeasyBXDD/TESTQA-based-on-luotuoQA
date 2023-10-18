@@ -1,0 +1,158 @@
+[
+    {
+        "story": "Face-book chief operating officer Sheryl Sandberg and Anna Maria Chavez, chief of American Girl Scouts, are leading a campaign to discourage the use of the word \"bossy\". Does the term destroy the confidence of young girls? \n\nThe campaign claims that terms like \"bossy\" are improperly applied to females, preventing schoolgirls from seeing themselves as future \"leaders\". From its first application, the word has been definitely connected more with women than with men. It first appeared in 1882, according to the Oxford English Dictionary, mentioning \"a lady manager who was extremely bossy\". As late as 2008, the word appeared in reference to females four times more often than males, claim the Ban Bossy campaigners. \"To me, the reference is always is association with women,\" says Helen Trim, director of Fresh Minds. \"I have three brothers and my family still call me 'bossy' today.\" Her father is the only other family member who could be considered in that way, says Trim, but nobody would ever call him so. \n\nSome educators recommend that the word should be reclaimed, rather than banned.\"But the thing with'bossy' is that there's an infantile element to it,\"says Sara Mills, professor at Sheffield University. \"You think of 'bossy' as being like a little kid who's claiming more than he has the right to claim.\" \n\nIt's not just\"bossy\"under fire.\"Pushy\"is another target. The implication is that women shouldn't present themselves as powerful and confident. Mills suggests, which some women are willing to listen to and accept. Trim points out that many modern female business role models are able to be bosses without being labeled'bossy'.And she rarely,if ever, hears the word used within her company. But she says that the damage may be dome much earlier in a woman's life.\"It does come about from those early teenage years.\"she says.\"I think it's impossible to ban a word, but if people are replacing it with words like'confidence'or'assertiveness',we would all be in a much better place.\"",
+        "QA": [
+            {
+                "answer": "chief of American Girl Scouts",
+                "questions": [
+                    "Who is teaming up with Sheryl Sandberg to launch a campaign against the use of the word \"bossy\"? ",
+                    "Who has partnered with Sheryl Sandberg to discourage the use of the term \"bossy\"? ",
+                    "Who is working with Sheryl Sandberg to promote a movement against the use of the word \"bossy\"? ",
+                    "Who, along with Sheryl Sandberg, is leading a campaign to discourage the use of the word \"bossy\"? ",
+                    "Who is collaborating with Sheryl Sandberg to advocate against the usage of \"bossy\"?"
+                ]
+            },
+            {
+                "answer": "leading a campaign",
+                "questions": [
+                    "What is the campaign led by Sheryl Sandberg and Anna Maria Chavez about? ",
+                    "How are Sheryl Sandberg and Anna Maria Chavez trying to address the issue of the word \"bossy\"? ",
+                    "What is the purpose of the campaign against the use of the word \"bossy\" led by Sandberg and Chavez? ",
+                    "Why is Sheryl Sandberg and Anna Maria Chavez targeting the word \"bossy\"? ",
+                    "In what way are Sandberg and Chavez discouraging the use of the word \"bossy\"?"
+                ]
+            },
+            {
+                "answer": "to discourage the use of the word \"bossy\"",
+                "questions": [
+                    "What is the aim of Sheryl Sandberg and Anna Maria Chavez's campaign concerning the word \"bossy\"? ",
+                    "What are Sandberg and Chavez trying to achieve by leading this campaign against the use of the term \"bossy\"? ",
+                    "What is the mission behind the Ban Bossy campaign spearheaded by Sandberg and Chavez? ",
+                    "Why are Sandberg and Chavez calling for a reduction in the use of the word \"bossy\"? ",
+                    "For what purpose are Sandberg and Chavez raising awareness about the negative impact of the word \"bossy\" on young girls?"
+                ]
+            },
+            {
+                "answer": "prevents schoolgirls from seeing themselves as future \"leaders",
+                "questions": [
+                    "1. What is the aim of the Sheryl Sandberg and Anna Maria Chavez-led campaign to discourage the use of \"bossy\"? ",
+                    "2. How does the use of the term \"bossy\" affect young girls' confidence, according to Sandberg and Chavez? ",
+                    "3. Is there a gender bias in the usage of the word \"bossy\", and if so, in what way? ",
+                    "4. What do some educators suggest should be done with the word \"bossy\" instead of banning it, and why? ",
+                    "5. At what age do some experts believe the damage caused by being called \"bossy\" may occur, according to the article? \""
+                ]
+            },
+            {
+                "answer": "destroys their confidence",
+                "questions": [
+                    "1. In what way does the use of the word \"bossy\" affect the confidence of young girls?",
+                    "2. How does the word \"bossy\" prevent schoolgirls from seeing themselves as future leaders?",
+                    "3. Why is the term \"bossy\" improperly applied to females, according to the Ban Bossy campaigners?",
+                    "4. How has the word \"bossy\" been historically connected more with women than with men?",
+                    "5. At what age does the use of the word \"bossy\" begin to affect a woman's perception of herself as a leader?"
+                ]
+            },
+            {
+                "answer": "1882",
+                "questions": [
+                    "When was the word \"bossy\" first recorded in the Oxford English Dictionary? ",
+                    "\"When did the campaign to discourage the use of the word \"bossy\" start?\"",
+                    "\"At what time in history was the term 'bossy' commonly associated with women?\" ",
+                    "\"What is the connection between the word 'bossy' and the confidence of young girls?\" ",
+                    "\"In the Ban Bossy campaign, what is the aim of discouraging the use of the word 'bossy' on young girls?\""
+                ]
+            },
+            {
+                "answer": "a lady manager who was extremely bossy",
+                "questions": [
+                    "When did \"bossy\" first appear in the English language, according to the Oxford English Dictionary? ",
+                    "\"When was \"bossy\" first associated with a \"lady manager\" according to the Oxford English Dictionary? ",
+                    "\"When did the term \"bossy\" begin to be more frequently used to describe women than men, according to the Ban Bossy campaigners? ",
+                    "\"At what point did the term \"bossy\" become more commonly connected with females than males, according to the Ban Bossy campaigners? ",
+                    "\"When was the first historical reference to a woman being described as \"bossy\", according to the Oxford English Dictionary?\""
+                ]
+            },
+            {
+                "answer": "Oxford English Dictionary",
+                "questions": [
+                    "What is the origin of the word \"bossy\"?",
+                    "Where was the first recorded use of the word \"bossy\"?",
+                    "Which source recorded the first usage of the word \"bossy\"?",
+                    "What is the earliest known usage of the word \"bossy\" and where was it recorded?",
+                    "What is the etymology of the word \"bossy\" and where did it come from?"
+                ]
+            },
+            {
+                "answer": "no",
+                "questions": [
+                    "1) Are there any other words besides \"bossy\" that could damage the confidence of young girls?",
+                    "2) Is \"bossy\" the sole harmful word when it comes to discouraging female leadership?",
+                    "3) Are there any other terms commonly associated with females that have negative connotations?",
+                    "4) Does the use of derogatory language impact the leadership aspirations of girls and women beyond just the term \"bossy\"?",
+                    "5) Are there any societal norms or attitudes that contribute to the negative portrayal of female leadership, beyond just the use of certain words?"
+                ]
+            },
+            {
+                "answer": "Pushy",
+                "questions": [
+                    "What is the campaign led by Sheryl Sandberg and Anna Maria Chavez focused on? ",
+                    "What is the target of the campaign to discourage the use of certain words towards females? ",
+                    "What is the implication of using words like \"bossy\" and \"pushy\" towards women and girls? ",
+                    "What are some other words that are being discouraged from use towards women and girls? ",
+                    "What is the importance of replacing words like \"bossy\" with \"confidence\" and \"assertiveness\"?"
+                ]
+            },
+            {
+                "answer": "it should be reclaimed, rather than banned",
+                "questions": [
+                    "What is the belief of some educators regarding the use of the word \"bossy\"? \"",
+                    "\"How do some educators recommend handling the use of the word \"bossy\"? \"",
+                    "\"What does the suggestion from some educators entail when it comes to the word \"bossy\"? \"",
+                    "\"What alternative words do some educators suggest to replace \"bossy\"? \"",
+                    "\"How does the belief of some educators relate to empowering young girls to become leaders? \""
+                ]
+            },
+            {
+                "answer": "no",
+                "questions": [
+                    "Are all women in leadership positions considered bossy? ",
+                    "\"Is being bossy a common trait among female bosses? ",
+                    "\"Is it fair to label all women in positions of authority as bossy? ",
+                    "\"Do people assume that women in leadership roles are naturally bossy? ",
+                    "\"Do gender stereotypes lead to the assumption that all female bosses are bossy?\""
+                ]
+            },
+            {
+                "answer": "Sheffield University",
+                "questions": [
+                    "What is the name of the university where Sara Mills is a professor?",
+                    "Which educational institution is Sara Mills affiliated with as a professor?",
+                    "In which university is Sara Mills a professor?",
+                    "To which university is Sara Mills associated as a professor?",
+                    "At which university does the professor Sara Mills teach?"
+                ]
+            }
+        ]
+    },
+    {
+        "story": "北京时间2月13日凌晨,2023年ATP250达拉斯站男单决赛。中国球员吴易昺先输一盘后挽救4个赛点并兑现第5个冠军点,最终以6(4)-7/7-6(3)/7-6(12)逆转惊险击败赛会5号种子、美国大炮伊斯内尔,就此改写历史,成为公开赛年代首位夺得ATP巡回赛男单冠军的中国大陆球员,并创造中国大陆球员的男单最高排名!\n\n第一盘比赛,吴易昺在第12局错过了一个盘点,并最终抢七惜败;第二盘则挽救一个赛点后抢七局3-0领先开局,且以7-6(3)扳回一盘;第三盘决胜盘,在关键的第9局15-40落后情况下凭借连续的高质量发球逆转保发,之后比赛再次进入抢七,抢七局依然胶着,吴易昺又挽救了3个赛点,并兑现了自己的第5个冠军点,就此锁定冠军!历史性一刻到来时,吴易昺瞬间躺倒在地。全场比赛,伊斯内尔轰出了44记Ace球,但最终在主场依然输给了吴易昺。\n\n凭借具有突破意义的这一冠,吴易昺在本周入账250个积分和112125美元的冠军奖金,在周一最新一期的男单排名榜单上,创中国大陆男网历史新高排名—第58位。根据比赛计划,吴易昺原本要出战本周进行的ATP250德拉海滩站,不过在达拉斯夺冠后,吴易昺因身体疲劳退出本站赛事,他的签位由幸运落败者约翰森替代。\n",
+        "QA": [
+            {
+                "answer": "他终于得偿所愿",
+                "questions": ["吴易昺倒地的原因是什么?", "??"]
+            },
+            {
+                "answer": "北京时间不是当地时间",
+                "questions": ["为什么这个比赛要在凌晨打？", "??"]
+            },
+            {
+                "answer": "伊斯内尔",
+                "questions": ["这场赛事中，谁是吴易昺的有力竞争者？", "??"]
+            },
+            {
+                "answer": "吴易昺",
+                "questions": ["这场赛事中，谁是伊斯内尔的有力竞争者？", "??"]
+            }
+        ]
+    }
+]
